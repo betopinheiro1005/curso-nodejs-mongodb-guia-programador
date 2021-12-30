@@ -1,7 +1,7 @@
 # Curso de Node.JS
 ## Guia do Programador (Victor Lima)
 
-### Lista de aula - [Vídeos do curso](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B)
 
 Aula 01 - O que é o Node.JS  
 Aula 02 - Como instalar o Node.JS  
